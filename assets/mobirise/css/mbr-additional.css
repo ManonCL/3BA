@@ -1462,6 +1462,11 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-r7cplkHRaD {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
 .cid-r5P57lKxhO {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1470,11 +1475,6 @@ body {
 .cid-r5P57lKxhO .media-container-row .mbr-text {
   color: #2510fd;
   text-align: center;
-}
-.cid-r7cplkHRaD {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
 }
 .cid-r7chhMc3ia {
   padding-top: 0px;
